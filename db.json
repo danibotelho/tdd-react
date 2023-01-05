@@ -1,0 +1,16 @@
+{
+  "books": [
+    {
+      "name": "Algoritmos de destruição em massa",
+      "id": 1
+    },
+    {
+      "name": "Clean Code",
+      "id": 2
+    },
+    {
+      "name": "Tecnodiversidade",
+      "id": 3
+    }
+  ]
+}
